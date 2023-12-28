@@ -183,6 +183,18 @@ img {
 .about-us-section {
   padding: 120px 0;
 }
+.about-us-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 112px;
+
+  background-color: #f4f4fd;
+  border: 1px solid var(--LIGHT-SLATE, #8e8f99);
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
 .about-us-list {
   display: flex;
   gap: 24px;
