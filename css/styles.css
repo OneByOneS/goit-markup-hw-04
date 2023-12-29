@@ -92,6 +92,8 @@ img {
   font-weight: 500;
   letter-spacing: 0.02em;
   padding: 24px 0;
+  position: relative;
+  color: #404bbf;
 }
 
 .header-link:hover,
