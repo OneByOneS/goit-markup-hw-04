@@ -312,6 +312,7 @@ img {
   text-align: center;
   letter-spacing: 0.02em;
   text-align: center;
+  padding-bottom: 8px;
 }
 
 .team-section-subject-item:hover {
@@ -347,7 +348,7 @@ img {
   overflow: hidden;
 }
 
-.portfolio-wrapper:hover .overlay {
+.portfolio-section-list-item:hover .overlay {
   transform: translateY(0%);
 }
 
